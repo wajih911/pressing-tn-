@@ -1,0 +1,15 @@
+.pressingCard {
+  width: 20rem;
+  box-shadow: 0 0 7px;
+  height: 40rem;
+  margin-left: 7px;
+}
+.PressingImg {
+  height: 38%;
+}
+.pressinglist {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 325px;
+}

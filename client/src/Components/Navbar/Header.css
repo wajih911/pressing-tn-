@@ -1,0 +1,16 @@
+div {
+  height: 50px;
+}
+.logo {
+  margin-top: 20px;
+  height: 90px;
+  width: 90px;
+  margin-left: 0px;
+}
+.mr-2 {
+  width: 250px;
+}
+
+.flexend {
+  justify-content: flex-end;
+}

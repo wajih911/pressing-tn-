@@ -1,0 +1,30 @@
+.div_tarifs {
+  height: 180px;
+  background-color: rgb(255, 255, 255);
+}
+.total {
+  flex-direction: column;
+}
+.texte_tarifs {
+  text-align: center;
+  margin-top: 50px;
+  color: rgb(0, 0, 0);
+  font-style: italic;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.texte_tarif {
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-style: normal;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.tarif_prix {
+  width: 77%;
+  height: 1200x;
+  text-align: center;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+.procedure {
+  margin-bottom: 50px;
+}
